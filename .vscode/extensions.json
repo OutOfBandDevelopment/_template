@@ -1,5 +1,12 @@
 {
     "recommendations": [
-        "yzane.markdown-pdf"
+        "yzane.markdown-pdf",
+        "mathematic.vscode-pdf",
+        "yzhang.markdown-all-in-one",
+        "jebbs.plantuml",
+        "well-ar.plantuml",
+        "clysto.plantuml",
+        "mebrahtom.plantumlpreviewer",
+        "qhoekman.language-plantuml"
     ]
 }

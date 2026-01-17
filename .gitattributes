@@ -1,2 +1,7 @@
+
+* text=auto
 *.bat text eol=crlf encoding=UTF-8
 *.sh text eol=lf encoding=UTF-8
+*.cs text eol=crlf encoding=UTF-8
+*.csproj text eol=crlf encoding=UTF-8
+*.sln text eol=crlf encoding=UTF-8
